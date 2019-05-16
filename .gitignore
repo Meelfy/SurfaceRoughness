@@ -1,6 +1,12 @@
 # sftp
 sftp-config.json
 
+# data
+*.asc
+
+# dev tools
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
