@@ -2,7 +2,7 @@
 sftp-config.json
 
 # data
-*.asc
+data/
 
 # dev tools
 .idea/
